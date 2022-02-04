@@ -1,0 +1,8 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\bin\Debug\01-exercicio.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\bin\Debug\01-exercicio.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\bin\Debug\01-exercicio.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\obj\Debug\01-exercicio.csproj.AssemblyReference.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\obj\Debug\01-exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\obj\Debug\01-exercicio.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\obj\Debug\01-exercicio.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\01-exercicio\obj\Debug\01-exercicio.pdb

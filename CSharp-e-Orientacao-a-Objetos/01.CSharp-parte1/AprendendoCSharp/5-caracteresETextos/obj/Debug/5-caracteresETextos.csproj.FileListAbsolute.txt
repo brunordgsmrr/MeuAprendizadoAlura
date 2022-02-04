@@ -1,0 +1,8 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\bin\Debug\5-caracteresETextos.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\bin\Debug\5-caracteresETextos.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\bin\Debug\5-caracteresETextos.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\obj\Debug\5-caracteresETextos.csproj.AssemblyReference.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\obj\Debug\5-caracteresETextos.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\obj\Debug\5-caracteresETextos.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\obj\Debug\5-caracteresETextos.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\5-caracteresETextos\obj\Debug\5-caracteresETextos.pdb

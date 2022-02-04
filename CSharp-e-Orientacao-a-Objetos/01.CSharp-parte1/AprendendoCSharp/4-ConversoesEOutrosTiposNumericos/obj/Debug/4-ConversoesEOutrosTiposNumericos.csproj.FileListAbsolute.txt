@@ -1,0 +1,7 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\bin\Debug\4-ConversoesEOutrosTiposNumericos.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\4-ConversoesEOutrosTiposNumericos\obj\Debug\4-ConversoesEOutrosTiposNumericos.pdb

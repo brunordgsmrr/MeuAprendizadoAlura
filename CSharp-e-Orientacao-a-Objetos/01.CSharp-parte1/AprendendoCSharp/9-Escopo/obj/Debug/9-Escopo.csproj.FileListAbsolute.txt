@@ -1,0 +1,8 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache

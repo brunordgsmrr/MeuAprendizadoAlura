@@ -1,0 +1,7 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\P11-CalculaPoupanca2.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\P11-CalculaPoupanca2.pdb

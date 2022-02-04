@@ -1,0 +1,8 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\bin\Debug\P13 - ForEncadeado.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\bin\Debug\P13 - ForEncadeado.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\bin\Debug\P13 - ForEncadeado.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\01.CSharp-parte1\AprendendoCSharp\P13 - ForEncadeado\obj\Debug\P13 - ForEncadeado.csproj.AssemblyReference.cache
