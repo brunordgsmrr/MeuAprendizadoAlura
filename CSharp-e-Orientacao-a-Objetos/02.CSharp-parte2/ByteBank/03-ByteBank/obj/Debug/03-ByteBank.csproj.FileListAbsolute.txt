@@ -1,0 +1,7 @@
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe.config
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\bin\Debug\03-ByteBank.pdb
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.csproj.CoreCompileInputs.cache
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.exe
+C:\Workspaces\ws-alura\CSharp-e-Orientacao-a-Objetos\02.CSharp-parte2\ByteBank\03-ByteBank\obj\Debug\03-ByteBank.pdb

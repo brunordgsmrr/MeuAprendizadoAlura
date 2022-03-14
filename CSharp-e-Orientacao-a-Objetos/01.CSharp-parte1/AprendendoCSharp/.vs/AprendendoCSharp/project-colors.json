@@ -65,7 +65,12 @@
       "ProjectGuid": "bb83e42e-ea56-476e-8f1d-46d728e5a0c0",
       "DisplayName": "P13 - ForEncadeado",
       "ColorIndex": 12
+    },
+    "ff5e8702-1d1f-40a4-b027-b8a78cd186e9": {
+      "ProjectGuid": "ff5e8702-1d1f-40a4-b027-b8a78cd186e9",
+      "DisplayName": "01-exercicio",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }
