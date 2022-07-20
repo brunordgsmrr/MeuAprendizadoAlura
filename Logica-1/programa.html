@@ -12,16 +12,15 @@
         pulaLinha();
     }
 
-    mostra("Olá pessoal");
+    function calculaImc(altura, peso){
+        return peso / (altura * altura);
+    }
 
-    var ano = 2016;
+    var nome = prompt("Informe seu nome")
+    var alturaInformada = prompt(nome + ", Informe sua altura");
+    var pesoInformado = prompt(nome + ", Informe seu peso");
 
-    mostra("Flávio tem " + (ano - 1977) + " anos");
+    var imc = calculaImc(alturaInformada, pesoInformado);
 
-    mostra("Joaquim tem " + (ano - 1996) + " anos");
-    
-    ano = 2017;
-
-    mostra("Barney tem " + (ano - 1976) + " anos");
-
+    document.write(nome + ", o seu IMC calculdado é " + imc);
 </script>
